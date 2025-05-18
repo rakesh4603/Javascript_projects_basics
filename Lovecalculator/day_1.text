@@ -1,0 +1,22 @@
+What is JavaScript?
+JavaScript is a programming language used to make websites interactive (buttons, forms, animations, etc.). It runs in the browser alongside HTML and CSS.
+
+Day Topics:
+
+Variables:
+
+let = can change later
+
+const = constant (cannot change)
+
+var = old way (avoid for now)
+
+Data Types
+
+Type	Example
+String	"Hello"
+Number	25, 3.14
+Boolean	true, false
+Null	null (intentional empty)
+Undefined	undefined (not assigned)
+
